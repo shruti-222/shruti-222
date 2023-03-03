@@ -15,7 +15,7 @@ Hi, my name is Shruti Ambekar and I'm a Data Analyst with over 2.9 years of expe
 
 - 🔭 I have work experience in Financial and Transportation & Logistics domain projects.
 - 🌱 I’m currently learning New Data Science Tools
-- 💬 Ask me about Machine Learning,Python, Data Visualization & Manipulation Tools ,Deep Learing,NLP
+- 💬 Ask me about Machine Learning,Python, Data Visualization & Manipulation Tools , Deep Learing, NLP
 - 📫 How to reach me: shrutiambekar5@gmail.com
 -->
 
