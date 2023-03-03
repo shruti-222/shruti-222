@@ -1,4 +1,4 @@
-### Hi there 👋 I am Shruti Ambekar
+### Hi there 👋 I am Shruti 
 
 ### About Me
 
