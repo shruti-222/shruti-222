@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi, my name is Shruti Ambekar and I have over 2.8+ years of experience in the field of Data Science.Experience in historic data and apply statistical concepts to make cross-sectional predictions. I'm passionate about using data to drive business decisions and solve real-world problems. I enjoy diving into complex datasets and finding insights that can help companies optimize their operations and improve their bottom line. 
+Hi, my name is Shruti Ambekar and I have over 2.4+ years of experience in the field of Data Science.Experience in historic data and apply statistical concepts to make cross-sectional predictions. I'm passionate about using data to drive business decisions and solve real-world problems. I enjoy diving into complex datasets and finding insights that can help companies optimize their operations and improve their bottom line. 
 
 
 ## My GitHub Stats
