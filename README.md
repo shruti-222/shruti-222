@@ -13,7 +13,7 @@ Hi, my name is Shruti Ambekar and I have over 3 + years of experience in the fie
 
 ![Github Stats 3](https://github-readme-stats.vercel.app/api?username=shruti-222)
 
-- 🔭 I have work experience in Financial and Transportation & Logistics domain projects.
+- 🔭 I have work experience in Financial,Retail and Construction domain projects.
 - 🌱 I’m currently learning New Data Science Tools
 - 💬 Ask me about Machine Learning,Python, Data Visualization & Manipulation Tools , Deep Learing, NLP
 - 📫 How to reach me: shrutiambekar02@gmail.com
